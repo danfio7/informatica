@@ -1,0 +1,10 @@
+.text-field {
+    -fx-background-color: #ff0000;
+}
+
+#perimetro {
+    -fx-text-fill: blue;
+}
+.gridpane {
+    -fx-padding: 5px, 5px, 5px, 5px;2
+}

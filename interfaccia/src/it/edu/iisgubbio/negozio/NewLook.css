@@ -1,0 +1,9 @@
+.text-field {
+    -fx-background-color: rgb(191, 255, 255);
+}
+#griglia {
+    -fx-background-color: rgb(147, 201, 255);
+}
+.button{
+    -fx-background-color: rgb(225, 196, 255);
+}

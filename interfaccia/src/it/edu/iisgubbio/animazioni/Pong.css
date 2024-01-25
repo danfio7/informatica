@@ -1,0 +1,50 @@
+.sfondo{
+	-fx-background-color: black;
+}
+.coloreElementi{
+	-fx-fill: white;
+}
+.coloreLabel{
+	-fx-text-fill: white;
+	-fx-font-size: 16pt;
+	-fx-fill:white;
+	-fx-font-family: pixel;
+}
+.bottoni{
+	-fx-pref-width: 80px;
+	-fx-background-color: white;
+}
+.menu{
+	-fx-background-color: white;
+	-fx-border-radius: 100px;
+	-fx-background-radius: 300px;
+	-fx-padding: 10px
+}
+#separazione{
+	-fx-stroke: white;
+}
+#countdown{
+	-fx-font-size: 16pt;
+}
+.menu:hover{
+	-fx-background-color: rgb(214, 214, 214);
+}
+#facile:hover{
+	-fx-text-fill: rgb(18, 143, 0);
+}
+#medio:hover{
+	-fx-text-fill: rgb(253, 177, 2);
+	
+}
+#difficile:hover{
+	-fx-text-fill: rgb(225, 120, 0);
+	
+}
+#impossibile:hover{
+	-fx-text-fill: rgb(233, 0, 14);
+}
+#avviso{
+	-fx-font-size: 8pt;
+	-fx-text-fill: yellow;
+	
+}
