@@ -52,7 +52,7 @@ public class Avanti extends Application{
 		timeline.play();
 	}
 	private void aggiornaTimer(){ 
-		pallino.setCenterX(n++);
+		pallino.setCenterX(n++); //incrementa la x
 	}
 
 	public static void main(String args[]){
